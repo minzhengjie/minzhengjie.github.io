@@ -19,8 +19,6 @@ Hi, I'm Zhengjie. I'm a dual-degree undergraduate studying computer science at t
 
 I'm interested in theoretical computer science, especially graph algorithms, parameterized algorithms, combinatorial optimization, matroids, and combinatorics. I'm also interested in computational complexity and cryptography.
 
-[Download my CV (PDF)](/assets/pdf/Zhengjie_Min_CV.pdf)
-
 ## Research projects
 
 **Connectivity oracles under edge failures** · June 2026–present  
